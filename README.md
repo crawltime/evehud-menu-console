@@ -5,7 +5,7 @@ I edited the mainmenuoverride.res and gamemenu.res to have the appropriate code 
 
 That is all.
 
-
+---
 
 ## Download [Here](https://github.com/crawltime/evehud-menu-console/releases/download/idfk/evehud-console.zip)
 ## Install:
