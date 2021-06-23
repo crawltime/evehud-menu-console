@@ -1,1 +1,8 @@
-# evehud
+# evehud menu console
+
+---
+
+Taken from: [e.v.e HUD kleen edition](https://gamebanana.com/mods/293211)
+I edited the mainmenuoverride.res and gamemenu.res to have the appropriate code that adds the console like kleen edition has. I also added the appropriate console vmt and vtf texture files that requires a material directory.
+
+That is all.
