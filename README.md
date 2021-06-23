@@ -10,4 +10,4 @@ That is all.
 ## Download [Here](https://github.com/crawltime/evehud-menu-console/releases/download/idfk/evehud-console.zip)
 ## Install:
 
-Place content inside the zip into your evehud root directory, replace the files and that's everything.
+Place everything inside "evehud-console" inside your evehud root directory, that's all.
